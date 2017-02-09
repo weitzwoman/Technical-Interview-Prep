@@ -1,7 +1,5 @@
 # Technical-Interview-Prep
-## Answers to Technical Interview Questions
-
-### Rails Week 1
+## Rails Week 1
 #### Describe an MVC framework.
 Rails follows a model-view-controller pattern. In this pattern, we use models (our classes), views (our pages) and controllers (our routing hub between external requests and internal processes and output) to manage the request-response cycle.
 
