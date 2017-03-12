@@ -41,6 +41,8 @@ A migration is a Ruby file that changes your database... so any time you want to
 
 #### How does an asset pipeline function? What benefits does it offer?
 
+## week two
+
 #### What's a password hash? How does it differ from a password salt? How do the two work together to authenticate users?
 #### How do we securely store user passwords in our database?
 #### In Rails applications that send emails to users, why is it preferable to send emails from the model instead of the controller? Do you agree or disagree?
@@ -49,15 +51,28 @@ A migration is a Ruby file that changes your database... so any time you want to
 #### What's the difference between the terms "authentication" and "authorization"? Similarities? When do we use each?
 #### Describe how you'd go about implementing Paperclip photo uploading capabilities into a Rails application.
 
-Walk through the anatomy of an AJAX request with your partner, using the diagram and corresponding step-by-step explanation in AJAX Visual - Adding a Task to a List as a reference. Discuss what happens each step of the way, and what files and/or code snippets are involved in the process. Re-create the diagram on a piece of paper, whiteboard, or in a drawing program like draw.io if beneficial.
-What is seeding a database? Why would we do this?
-When do you use AJAX in a Rails application? How do you decide whether to use AJAX or not?
-What does AJAX stand for?
-How does an AJAX request interact with the server?
-What is unique about an AJAX request, compared to a normal HTTP request?
-How does an AJAX request know where to go?
-Describe some of your go-to methods and approaches to refactoring?
-What new concepts are you looking forward to learning?
-Describe a time when you struggled with a new concept this week; what was the issue? How did you resolve it?
-Why is integration testing important?
-How can we write integration tests for AJAX?
+## Week Three
+
+#### Walk through the anatomy of an AJAX request with your partner, using the diagram and corresponding step-by-step explanation in AJAX Visual - Adding a Task to a List as a reference. Discuss what happens each step of the way, and what files and/or code snippets are involved in the process. Re-create the diagram on a piece of paper, whiteboard, or in a drawing program like draw.io if beneficial.
+#### What is seeding a database? Why would we do this?
+#### When do you use AJAX in a Rails application? How do you decide whether to use AJAX or not?
+#### What does AJAX stand for?
+#### How does an AJAX request interact with the server?
+#### What is unique about an AJAX request, compared to a normal HTTP request?
+#### How does an AJAX request know where to go?
+#### Describe some of your go-to methods and approaches to refactoring?
+#### What new concepts are you looking forward to learning?
+#### Describe a time when you struggled with a new concept this week; what was the issue? How did you resolve it?
+#### Why is integration testing important?
+#### How can we write integration tests for AJAX?
+
+## week four - apis
+
+#### Describe an HTTP GET request.
+#### Describe an HTTP POSt request.
+#### Describe the differences between an HTTP POST request, and a GET request. When would you use one over the other?
+#### When we say an HTTP request includes headers, what are we referring to? What information is included in a header? Why?
+#### What is the difference between a 500 HTTP response and a 400 HTTP response? What about a 200 response?
+#### When we use the term "payload" in terms of interacting with APIs and making HTTP requests, what are we talking about? What does a payload contain?
+#### What information might be sent in a query string?
+#### What are your favorite API resources for Ruby and Rails? What APIs have you worked with? How did it go?
