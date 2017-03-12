@@ -49,11 +49,11 @@ A migration is a Ruby file that changes your database... so any time you want to
 #### What's the difference between bcrypt and Devise? Describe your experience using both. Which do you prefer? Why?
 #### How do we ensure user authentication via Devise is accurately tested with Capybara?
 #### What's the difference between the terms "authentication" and "authorization"? Similarities? When do we use each?
+Authentication is the process of logging in a user while authorization is the process of determining which resources a user can access.
 #### Describe how you'd go about implementing Paperclip photo uploading capabilities into a Rails application.
 
 ## Week Three
 
-#### Walk through the anatomy of an AJAX request with your partner, using the diagram and corresponding step-by-step explanation in AJAX Visual - Adding a Task to a List as a reference. Discuss what happens each step of the way, and what files and/or code snippets are involved in the process. Re-create the diagram on a piece of paper, whiteboard, or in a drawing program like draw.io if beneficial.
 #### What is seeding a database? Why would we do this?
 #### When do you use AJAX in a Rails application? How do you decide whether to use AJAX or not?
 #### What does AJAX stand for?
