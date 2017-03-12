@@ -40,3 +40,11 @@ A migration is a Ruby file that changes your database... so any time you want to
 #### How do we determine whether code belongs in the model or the controller?
 
 #### How does an asset pipeline function? What benefits does it offer?
+
+#### What's a password hash? How does it differ from a password salt? How do the two work together to authenticate users?
+#### How do we securely store user passwords in our database?
+#### In Rails applications that send emails to users, why is it preferable to send emails from the model instead of the controller? Do you agree or disagree?
+#### What's the difference between bcrypt and Devise? Describe your experience using both. Which do you prefer? Why?
+#### How do we ensure user authentication via Devise is accurately tested with Capybara?
+#### What's the difference between the terms "authentication" and "authorization"? Similarities? When do we use each?
+#### Describe how you'd go about implementing Paperclip photo uploading capabilities into a Rails application.
